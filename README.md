@@ -4,3 +4,4 @@
 ### previewPic api
 
 ### See live: 
+https://kajalshanto.github.io/js-interactive-gallery/
